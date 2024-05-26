@@ -1,1 +1,2 @@
-# ANA515_Week1
+# Rmarkdown activity
+#Knit file uploaded in pdf with RMD code in R
